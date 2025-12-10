@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/scripts/" />
+  <Folder Name="/src/">
+    <Project Path="Management.Api/Management.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Domain/">
+    <Project Path="MemberManagement.Domain/MemberManagement.Domain.fsproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
